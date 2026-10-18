@@ -1,0 +1,52 @@
+.box {
+     background-color: antiquewhite;
+     width: 400px;
+     
+     padding:20px;
+     border-radius:15px;
+     text-align:center;
+}
+
+h1{
+    margin-bottom:25px;
+}
+
+label{
+    display:block;
+    margin-bottom:10px;
+    
+}
+
+input{
+    width: 120px;
+    padding: 5px;
+    border:1px solid black;
+    border-radius:5px;
+    margin: 0 auto 20px auto;
+    display:block;  
+}
+
+button{
+    width:120px;
+    padding:5px;
+    border:1px solid black;
+    border-radius:5px;
+    background-color:black;
+    color:white;
+    font-size:16px;
+    cursor: pointer;
+}
+
+#result {
+       margin-top:25px;
+       font-size:20px;
+       font-weight:bold;
+
+}
+
+
+
+
+
+
+
